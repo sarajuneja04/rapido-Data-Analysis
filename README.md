@@ -3,12 +3,10 @@
 ## 📝 Project Overview  
 This project analyzes **Rapido ride data** using **Power BI** to uncover key insights into **ride volume, booking trends, cancellations, revenue, and customer-driver ratings**. The analysis aims to help optimize operations, improve customer experience, and enhance business strategies.  
 
-## 📂 Files in This Repository  
-- **📄 Project Document.pdf** – Detailed project description, analysis questions, and insights  
+## 📂 Files in This Repository    
 - **📊 Rapido_PowerBI.pbix** – Power BI dashboard with interactive visualizations
 - **📄 Rapido SQL Questions.sql** – Sql File with Question and Answers
 - **📄 Rapido_Dataset** – The Dataset with 20000 rows
-- **📄 Rapido_Dashboard_Screenshot** – The dashboard preview of the Power BI Report
 
 ## 📌 Key Insights from the Report  
 - **Ride Volume Trends** – Consistent fluctuations in ride bookings over time.  
@@ -25,6 +23,3 @@ This project analyzes **Rapido ride data** using **Power BI** to uncover key ins
 - **Excel** – Data Cleaning & Rearrangement
 - **SQL** – Data extraction & transformation 
 - **Power BI** – Data visualization & dashboard creation  
-
-## 🖼️ Dashboard Screenshot  
-![Rapido Data Analysis Dashboard](https://github.com/shashwatvyass/Rapido-Data-Analysis/blob/main/Dashboard_Rapido_Screenshot.png)  # rapido-Data-Analysis
